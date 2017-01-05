@@ -1,1 +1,1 @@
-This repository is linked with yunjae@yonsei.sscc.uos.ac.kr
+This repository is linked with yunjae@yonsei.sscc.uos.ac.kr:~/github/test_Kohn
